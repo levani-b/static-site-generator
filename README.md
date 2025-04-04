@@ -4,7 +4,7 @@ This is a simple static site generator built in Python that converts Markdown fi
 
 ## Live Site
 
-Visit the live site: [LIVE](https://github.com/levani-b/static-site-generator/)
+Visit the live site: [LIVE](https://levani-b.github.io/static-site-generator/)
 
 ## Features
 
